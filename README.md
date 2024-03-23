@@ -1,2 +1,2 @@
 # XweiOS1.0
-The system
+This is a OS;
